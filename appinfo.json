@@ -1,0 +1,221 @@
+{
+    "appKeys": {
+        "bluetoothvibe": 0,
+        "colour": 2,
+        "hourlyvibe": 1,
+        "info": 3
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "chops",
+    "longName": "PrismClock",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/REDS.png",
+                "name": "IMAGE_BG_B",
+                "type": "png"
+            },
+            {
+                "file": "images/BLUES.png",
+                "name": "IMAGE_BG_C",
+                "type": "png"
+            },
+            {
+                "file": "images/bwinv1.png",
+                "name": "IMAGE_BG_D",
+                "type": "png"
+            },
+            {
+                "file": "images/bwinv2.png",
+                "name": "IMAGE_BG_E",
+                "type": "png"
+            },
+            {
+                "file": "images/Prisms.png",
+                "name": "IMAGE_BG",
+                "type": "png"
+            },
+            {
+                "file": "images/prism-bt.png",
+                "name": "IMAGE_BLUETOOTH",
+                "type": "png"
+            },
+            {
+                "file": "images/prism-bt-off.png",
+                "name": "IMAGE_BLUETOOTHOFF",
+                "type": "png"
+            },
+            {
+                "file": "images/prism-bt-on.png",
+                "name": "IMAGE_BLUETOOTHON",
+                "type": "png"
+            },
+            {
+                "file": "images/prism-bat100.png",
+                "name": "IMAGE_BATTERY",
+                "type": "png"
+            },
+            {
+                "file": "images/prism-sat.png",
+                "name": "IMAGE_DAY_NAME_SAT",
+                "type": "png"
+            },
+            {
+                "file": "images/prism-fri.png",
+                "name": "IMAGE_DAY_NAME_FRI",
+                "type": "png"
+            },
+            {
+                "file": "images/prism-thu.png",
+                "name": "IMAGE_DAY_NAME_THU",
+                "type": "png"
+            },
+            {
+                "file": "images/prism-wed.png",
+                "name": "IMAGE_DAY_NAME_WED",
+                "type": "png"
+            },
+            {
+                "file": "images/prism-tue.png",
+                "name": "IMAGE_DAY_NAME_TUE",
+                "type": "png"
+            },
+            {
+                "file": "images/prism-mon.png",
+                "name": "IMAGE_DAY_NAME_MON",
+                "type": "png"
+            },
+            {
+                "file": "images/prism-sun.png",
+                "name": "IMAGE_DAY_NAME_SUN",
+                "type": "png"
+            },
+            {
+                "file": "images/prismpercent.png",
+                "name": "IMAGE_TINY_PERCENT",
+                "type": "png"
+            },
+            {
+                "file": "images/prism-date-9.png",
+                "name": "IMAGE_NUM_B9",
+                "type": "png"
+            },
+            {
+                "file": "images/prism-date-8.png",
+                "name": "IMAGE_NUM_B8",
+                "type": "png"
+            },
+            {
+                "file": "images/prism-date-7.png",
+                "name": "IMAGE_NUM_B7",
+                "type": "png"
+            },
+            {
+                "file": "images/prism-date-6.png",
+                "name": "IMAGE_NUM_B6",
+                "type": "png"
+            },
+            {
+                "file": "images/prism-date-5.png",
+                "name": "IMAGE_NUM_B5",
+                "type": "png"
+            },
+            {
+                "file": "images/prism-date-4.png",
+                "name": "IMAGE_NUM_B4",
+                "type": "png"
+            },
+            {
+                "file": "images/prism-date-3.png",
+                "name": "IMAGE_NUM_B3",
+                "type": "png"
+            },
+            {
+                "file": "images/prism-date-2.png",
+                "name": "IMAGE_NUM_B2",
+                "type": "png"
+            },
+            {
+                "file": "images/prism-date-1.png",
+                "name": "IMAGE_NUM_B1",
+                "type": "png"
+            },
+            {
+                "file": "images/prism-date-0.png",
+                "name": "IMAGE_NUM_B0",
+                "type": "png"
+            },
+            {
+                "file": "images/prism-menu.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/ms9.png",
+                "name": "IMAGE_NUM_9",
+                "type": "png"
+            },
+            {
+                "file": "images/ms8.png",
+                "name": "IMAGE_NUM_8",
+                "type": "png"
+            },
+            {
+                "file": "images/ms7.png",
+                "name": "IMAGE_NUM_7",
+                "type": "png"
+            },
+            {
+                "file": "images/ms6.png",
+                "name": "IMAGE_NUM_6",
+                "type": "png"
+            },
+            {
+                "file": "images/ms5.png",
+                "name": "IMAGE_NUM_5",
+                "type": "png"
+            },
+            {
+                "file": "images/ms4.png",
+                "name": "IMAGE_NUM_4",
+                "type": "png"
+            },
+            {
+                "file": "images/ms3.png",
+                "name": "IMAGE_NUM_3",
+                "type": "png"
+            },
+            {
+                "file": "images/ms2.png",
+                "name": "IMAGE_NUM_2",
+                "type": "png"
+            },
+            {
+                "file": "images/ms0.png",
+                "name": "IMAGE_NUM_0",
+                "type": "png"
+            },
+            {
+                "file": "images/ms1.png",
+                "name": "IMAGE_NUM_1",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "PrismClock",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "0f2d309a-cbd1-4d7e-873f-543bb7bbcc0f",
+    "versionLabel": "3.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
